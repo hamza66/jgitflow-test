@@ -4,7 +4,7 @@
 
     <groupId>jgitflow.test</groupId>
     <artifactId>jgitflow-test</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
 
     <scm>
